@@ -1,0 +1,102 @@
+body{
+   background-image: url('https://i.pinimg.com/736x/77/ee/a9/77eea92bc01cffa574d83b0f64cb4732.jpg');
+    font-color: white;
+}
+#h1_1{
+
+    text-align:center;
+    border:2px solid #003152;
+    border-width: 100%;
+    background:rgba(108,91,123, 0.5); 
+}
+.cont{
+    grid-row: 1;
+    grid-column: 1;
+}
+
+
+#div_1{
+    background-color:58CCED
+    font-color: white;
+    padding-right:30px ;
+    padding-left:30px ;
+    padding-top:50px ;
+    padding-bottom:50px ;
+}
+
+
+.MGY{
+    position: absolute;
+    top: 900px;
+    left:120px ;
+}
+
+
+.CEW{
+    position: absolute;
+    top: 900px;
+    left:490px ;
+}
+
+
+.HIY{
+    position: absolute;
+    top: 900px;
+    left:850px ;
+}
+
+
+.PYN{
+    position: absolute;
+    top: 900px;
+    left:1220px ;
+}
+
+
+#div_2{
+    background-color: 58CCED
+    font-color: white;
+}
+
+
+.cast{
+    margin-top:50px ;
+    margin-bottom:50px ;
+    margin-left:50px ;
+    margin-right:50px ;
+    width: 180px;
+    height: 240px;
+}
+
+
+.bg:hover{
+    background-color: rgb(180, 91, 123);
+}
+
+
+
+
+.flex-container {
+    display: flex;
+    background-color: rgba(108,91,123, 0.5);
+  }
+
+
+  .flex-container > div{
+    background-color: rgba(108,91,123, 0.5);
+    margin: 20px;
+    padding: 20px;
+    font-size: 30px;
+   }
+
+
+   .flex-container{
+    visibility: visible;
+   }
+
+
+.True_beauty{
+    border: 1px black solid;
+    width:20vw;
+    height:50vh ;
+}
